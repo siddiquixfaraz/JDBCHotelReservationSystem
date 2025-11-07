@@ -1,0 +1,23 @@
+Project Learning -- Basics of JDBC
+
+
+
+Functionality(Receptionist)--
+1. To Create new reservation -- Method()
+2. Check reservation
+3. Get room number
+4. Update reservation
+5. Delete reservation
+6. Exit
+
+Console View
+1. Reserve a room
+2. View Reservation
+3. Get Room number
+4. Update Reservation
+5. Delete Reservation
+6. Exit
+
+
+DATABASE NAME - HOTEL_DB
+TABLE NAME - reservations
